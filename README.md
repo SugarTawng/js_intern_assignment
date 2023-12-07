@@ -24,17 +24,17 @@ npm run dev
 ## Backend
 #### Localhost api: 
  - GET `http://localhost:3000/api/v1/products/`: Get all products
- - GET `http://localhost:3000/api/v1/products/:id/`: Get a product by id
- - POST `http://localhost:3000/api/v1/products/`: Create a new product
- - PUT `http://localhost:3000/api/v1/products/:id/`: Update a product by id
- - DELETE `http://localhost:3000/api/v1/products/:id/`: Delete a product by id
+ - GET `http://localhost:3000/api/v1/products/:id/`: Get a product by id (id from 1 to 10 is available)
+ - POST `http://localhost:3000/api/v1/products/`: Create a new product 
+ - PUT `http://localhost:3000/api/v1/products/:id/`: Update a product by id (id from 1 to 10 is available)
+ - DELETE `http://localhost:3000/api/v1/products/:id/`: Delete a product by id (id from 1 to 10 is available)
 
 #### Deployment api:
  - GET `https://productinterview-d886b652ca9d.herokuapp.com/api/v1/products/`: Get all products
- - GET `https://productinterview-d886b652ca9d.herokuapp.com/api/v1/products/:id/`: Get a product by id
+ - GET `https://productinterview-d886b652ca9d.herokuapp.com/api/v1/products/:id/`: Get a product by id (id from 1 to 10 is available)
  - POST `https://productinterview-d886b652ca9d.herokuapp.com/api/v1/products/`: Create a new product
- - PUT `https://productinterview-d886b652ca9d.herokuapp.com/api/v1/products/:id/`: Update a product by id
- - DELETE `https://productinterview-d886b652ca9d.herokuapp.com/api/v1/products/:id/`: Delete a product by id
+ - PUT `https://productinterview-d886b652ca9d.herokuapp.com/api/v1/products/:id/`: Update a product by id (id from 1 to 10 is available)
+ - DELETE `https://productinterview-d886b652ca9d.herokuapp.com/api/v1/products/:id/`: Delete a product by id (id from 1 to 10 is available)
 
 
 ## Frontend
