@@ -18,7 +18,7 @@ npm run start
 ```sh
 cd frontend
 npm i
-npm run start
+npm run dev
 ```
 
 ## Backend
@@ -39,10 +39,10 @@ npm run start
 
 ## Frontend
 #### Localhost UI
-- `http://localhost:3000/api/v1/products/`: Get all products
+- `http://127.0.0.1:5173/`
 
 #### Deployment UI:
-- `http://localhost:3000/api/v1/products/`: Get all products
+- `https://g-sneaker-flax.vercel.app/`
 
 ## Remind me:
 When database or deployment is/are crashed, please remind me via:
